@@ -13,7 +13,7 @@ PINECONE_API_KEY=YOUR_API_KEY
 `python main.py`
 
 ### CHANGE QUERY ###
-You can modify line 63 in main.py. Example:
+You can modify [line 70](https://github.com/yosephfernando/RAG/blob/main/main.py#L70) in main.py. Example:
 ```
 query = "What is Proximity graph techniques ?"
 ```
