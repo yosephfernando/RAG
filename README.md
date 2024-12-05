@@ -6,7 +6,7 @@ Make sure enable your virtual env first  before execute the script
 ### SET PINECONE APIKEY IN .env FILE ###
 PINECONE_API_KEY=YOUR_API_KEY
 
-### MAKE DOCUMEN(PDF) USING THIS SCRIPT ###
+### INGEST DOCUMEN(PDF) USING THIS SCRIPT ###
 `python Pdfingestion.py`
 
 ### INTERACT WITH THE LLM USING THIS SCRIPT ###
